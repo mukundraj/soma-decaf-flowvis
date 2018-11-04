@@ -1,0 +1,10 @@
+[submodule "mraj-MPAS-Model"]
+	path = mraj-MPAS-Model
+	url = https://github.com/mukundraj/mraj-MPAS-Model
+[submodule "decaf"]
+	path = decaf
+	url = https://github.com/mukundraj/decaf
+	branch = multiple-container
+[submodule "diy"]
+	path = diy
+	url = https://github.com/diatomic/diy
